@@ -5,5 +5,5 @@ Takes the users name and favorite number and outputs both of these details in a 
 ## Usage
 When asked for input by the program, type name in the available space, same for the favorite number when prompted
 
-##Installation documentation
+## Installation documentation
 Not applicable for this program
